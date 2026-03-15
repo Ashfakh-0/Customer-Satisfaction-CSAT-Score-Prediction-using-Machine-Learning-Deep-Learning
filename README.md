@@ -1,0 +1,2 @@
+# Customer-Satisfaction-CSAT-Score-Prediction-using-Machine-Learning-Deep-Learning
+The goal of this project is to analyze customer service data and build a predictive model that can estimate the CSAT score (1–5 ). This helps organizations understand how different factors such as response time, issue timing, and customer feedback influence satisfaction levels. The project demonstrates a complete end-to-end data science workflow.
